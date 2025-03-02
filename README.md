@@ -10,4 +10,4 @@ Matricula: 877590
 ![alt text](navegador.png)
 ## Tela de projeto no Replit
 
-![alt text](../replit.png)
+![alt text](replit.png)
